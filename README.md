@@ -2,15 +2,17 @@
 
 During my 1 month of Data Analytics and Machine Learning remote internship at Start-Tech Academy, One of my tasks was developing a machine learning model based on a employee data of a company.
 <br> <br>
-Libraries Used:
+### Libraries Used:
 <ul>
  <li>Numpy</li>
  <li>Pandas</li>
  <li>Seaborn</li>
  <li>Sklearn</li>
 </ul>
+
 <br>
-Machine Learning Algorithms Used:
+
+### Machine Learning Algorithms Used:
 <ul>
  <li>Linear Regression</li>
  <li>Ridge Regression</li>
@@ -22,3 +24,14 @@ Machine Learning Algorithms Used:
  <li>KNN(k-nearest neighbors)</li>
  <li>SVR(Support Vector Regressor)</li>
 </ul>
+<br>
+
+## Required pip installs
+
+```
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install sklearn
+pip install xgboost 
+```
